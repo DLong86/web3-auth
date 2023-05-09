@@ -16,11 +16,11 @@ This app includes the following features:
 
 This app was built using the following technologies:
 
-    - React: A Javascript library for building user interfaces.
-    - Typescript: A typed superset of Javascript that compiles to plain Javascript.
-    - Tailwind CSS: A utility-first CSS framework for quickly building custom user interfaces.
-    - Web3.js: A collection of libraries that allow you to interact with local or remote Ethereum
-      node using HTTP, WebSocket, or IPC transport.
+- React: A Javascript library for building user interfaces.
+- Typescript: A typed superset of Javascript that compiles to plain Javascript.
+- Tailwind CSS: A utility-first CSS framework for quickly building custom user interfaces.
+- Web3.js: A collection of libraries that allow you to interact with local or remote Ethereum
+  node using HTTP, WebSocket, or IPC transport.
 
 ## Acknowledgments
 
