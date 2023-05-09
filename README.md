@@ -1,46 +1,29 @@
-# Getting Started with Create React App
+# React Metamask Auth App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Description
 
-## Available Scripts
+This is a simple web app that allows users to authorise and authenticate with Metamask
+using React, Typescript, and Tailwind CSS
 
-In the project directory, you can run:
+## Features
 
-### `npm start`
+This app includes the following features:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- Login with Metamask: Users can authorise and login with their Metamask wallet.
+- Logout: Users can logout of the app and revoke access to their Metamask wallet.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Technologies
 
-### `npm test`
+This app was built using the following technologies:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+    - React: A Javascript library for building user interfaces.
+    - Typescript: A typed superset of Javascript that compiles to plain Javascript.
+    - Tailwind CSS: A utility-first CSS framework for quickly building custom user interfaces.
+    - Web3.js: A collection of libraries that allow you to interact with local or remote Ethereum
+      node using HTTP, WebSocket, or IPC transport.
 
-### `npm run build`
+## Acknowledgments
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+    - [Metamask documentation](https://metamask.io/)
+    - [React](https://legacy.reactjs.org/tutorial/tutorial.html)
+    - [Tailwindcss](https://tailwindcss.com/docs/guides/create-react-app)
