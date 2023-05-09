@@ -24,6 +24,6 @@ This app was built using the following technologies:
 
 ## Acknowledgments
 
-    - [Metamask documentation](https://metamask.io/)
-    - [React](https://legacy.reactjs.org/tutorial/tutorial.html)
-    - [Tailwindcss](https://tailwindcss.com/docs/guides/create-react-app)
+- [Metamask documentation](https://metamask.io/)
+- [React](https://legacy.reactjs.org/tutorial/tutorial.html)
+- [Tailwindcss](https://tailwindcss.com/docs/guides/create-react-app)
